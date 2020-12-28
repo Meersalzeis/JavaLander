@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/ameth/Desktop/Uni/Sem5/JavaFramework/LibrariesAndCo/eea.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ameth/Desktop/Uni/Sem5/JavaFramework/LibrariesAndCo/slick.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ameth/Desktop/Uni/Sem5/JavaFramework/LibrariesAndCo/lwjgl-2.9.3/jar/lwjgl.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="javaFramework/native"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
